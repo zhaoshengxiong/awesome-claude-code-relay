@@ -27,6 +27,8 @@
 | ⭐⭐⭐ | **SSSAiCode** | 商业 | [官网](https://www.sssaicode.com) | `https://www.sssaicode.com` |
 | ⭐⭐⭐ | **MikuCode** | 商业 | [官网](https://mikucode.xyz) | `https://mikucode.xyz` |
 | ⭐⭐⭐ | **JikeAI** | 商业 | [官网](https://magic666.top) | `https://magic666.top` |
+| 待评估 | **TeapotRouter** | 商业 | [官网](https://teapotrouter.com) | `https://teapotrouter.com` |
+| 待评估 | **Twinkle Model** | 商业 | [官网](https://big-model.smart-agi.com) | `https://big-model.smart-agi.com` |
 | ⭐⭐ | **AICodeMirror** | 商业 | [官网](https://www.aicodemirror.com) | `https://www.aicodemirror.com` |
 | ⭐⭐ | **Privnode** | 商业 | [官网](https://privnode.com) | `https://privnode.com` |
 | ⭐⭐ | **Uucode** | 商业 | [官网](https://www.uucode.org) | `https://www.uucode.org` |
